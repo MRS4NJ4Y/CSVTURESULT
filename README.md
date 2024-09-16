@@ -11,7 +11,7 @@
 ## Screenshots:
 ![App Screenshot](https://github.com/MRS4NJ4Y/CSVTURESULT/blob/main/src/Screenshot_2.png)
 ***
-![App Screenshot](https://github.com/MRS4NJ4Y/CSVTURESULT/blob/main/src/Screenshot_3.png)
+![App Screenshot](https://github.com/MRS4NJ4Y/CSVTURESULT/blob/main/src/Screenshot_21.png)
 ***
 ## About:
 ### This program is only for B.Tech. Which works on PC.
