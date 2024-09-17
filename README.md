@@ -1,5 +1,5 @@
 ## CSVTURESULT:
-**👉This program helps you to view result/admit card. Using this program you can check any previous (November-December-2021) to current result/admit card only by roll number. Besides, this program also provides you PYQ.**
+**👉This program helps you to view result/admit card. Using this program you can check any previous (Nov-Dec-2021) to current result/admit card only by roll number. Besides, this program also provides you PYQ.**
 ***
 
 ## How to Use:
