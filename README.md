@@ -8,11 +8,17 @@
 #### After downloading, open CSVTURESULT.exe 
 #### ⚠️If you do not have a good Internet connection, the program will not open. Open the program with an internet connection and follow the instructions below.
 ![App Screenshot](https://github.com/MRS4NJ4Y/CSVTURESULT/blob/main/src/Screenshot_1.png)
+
 ***
+![App Screenshot](https://github.com/MRS4NJ4Y/CSVTURESULT/blob/main/src/Screenshot_Logo.png)
 ## Screenshots:
-![App Screenshot](https://github.com/MRS4NJ4Y/CSVTURESULT/blob/main/src/Screenshot_2.png)
+#### Admit Card
+![App Screenshot](https://github.com/MRS4NJ4Y/CSVTURESULT/blob/main/src/Screenshot_Admit.png)
+
 ***
-![App Screenshot](https://github.com/MRS4NJ4Y/CSVTURESULT/blob/main/src/Screenshot_21.png)
+#### Result
+![App Screenshot](https://github.com/MRS4NJ4Y/CSVTURESULT/blob/main/src/Screenshot_Result.png)
+
 ***
 ## About:
 ### This program is only for B.Tech. Which works on PC.
