@@ -5,7 +5,8 @@
 ## How to Use:
 ### Click hare to downolad the CSVTURESULT.exe :
 ### [📥Download Now](https://github.com/MRS4NJ4Y/CSVTURESULT/raw/main/CSVTURESULT.exe).
-#### After downloading CSVTURESULT.exe open it and follow the given instructions.
+#### After downloading, open CSVTURESULT.exe 
+#### ⚠️If you do not have a good Internet connection, the program will not open. Open the program with an internet connection and follow the instructions below.
 ![App Screenshot](https://github.com/MRS4NJ4Y/CSVTURESULT/blob/main/src/Screenshot_1.png)
 ***
 ## Screenshots:
