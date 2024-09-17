@@ -10,7 +10,6 @@
 ![App Screenshot](https://github.com/MRS4NJ4Y/CSVTURESULT/blob/main/src/Screenshot_1.png)
 
 ***
-![App Screenshot](https://github.com/MRS4NJ4Y/CSVTURESULT/blob/main/src/Screenshot_Logo.png)
 ## Screenshots:
 #### Admit Card
 ![App Screenshot](https://github.com/MRS4NJ4Y/CSVTURESULT/blob/main/src/Screenshot_Admit.png)
