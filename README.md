@@ -17,7 +17,7 @@
 ## About:
 ### This program is only for B.Tech. Which works on PC.
 ### This program is more efficient and faster than online websites.
-### Using this program you can check any previous (November-December-2021) to current result/admit card
+### Using this program you can check any previous (Nov-Dec-2021) to current result/admit card
 ### You can check result/admit card of anyone using roll number.
 ### they Also Provide PYQ.
 ***
@@ -26,7 +26,8 @@
 ### 2. Make sure you are logged in to the CSVTU website in the default browser.
 ### 3. Make sure you have downloaded the latest version.
 ### 4. Restart the program and check the login status.
-### 5. If you are good and not seeing the result/admit card then it may be that they are not declared, please wait and try again later.
+### 5. Make sure you have given the correct inputs into the program.
+### 6. If you are good and not seeing the result/admit card then it may be that they are not declared, please wait and try again later.
 
 ## 👤My Account For Support👤:
 
