@@ -1,5 +1,5 @@
 ## CSVTURESULT:
-**This program helps to view result and admit card. By using this program you can see previous and next result of anyone.**
+**👉This program helps you to view result/admit card. Using this program you can check any previous (November-December-2021) to current result/admit card only by roll number. Besides, this program also provides you PYQ.**
 ***
 
 ## How to Use:
@@ -17,7 +17,7 @@
 ## About:
 ### This program is only for B.Tech. Which works on PC.
 ### This program is more efficient and faster than online websites.
-### you can also see the result/Admit Card of previous and next semester.
+### Using this program you can check any previous (November-December-2021) to current result/admit card
 ### You can check result/admit card of anyone using roll number.
 ### they Also Provide PYQ.
 ***
