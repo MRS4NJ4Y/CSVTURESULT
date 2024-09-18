@@ -3,12 +3,12 @@
 ***
 
 ## How to Use:
+### [👉 👀Watch Video before Use](https://github.com/MRS4NJ4Y/CSVTURESULT/blob/main/src/video_for_help.gif)
 ### Click hare to downolad the CSVTURESULT.exe :V1.1.0
-### [📥Download Now](https://github.com/MRS4NJ4Y/CSVTURESULT/raw/main/CSVTURESULT.exe).
+### [👉📥Download Now](https://github.com/MRS4NJ4Y/CSVTURESULT/raw/main/CSVTURESULT.exe).
 #### After downloading, open CSVTURESULT.exe 
 #### ⚠️If you do not have a good Internet connection, the program will not open. Open the program with an internet connection and follow the instructions below.
 ![App Screenshot](https://github.com/MRS4NJ4Y/CSVTURESULT/blob/main/src/Screenshot_1.png)
-
 ***
 ## Screenshots:
 #### Admit Card
