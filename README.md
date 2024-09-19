@@ -33,8 +33,15 @@
 ### 4. Restart the program and check the login status.
 ### 5. Make sure you have given the correct inputs into the program.
 ### 6. If you are good and not seeing the result/admit card then it may be that they are not declared, please wait and try again later.
+***
 
-## 👤My Account For Support👤:
+## To DO List:
+### User-friendly
+### No need to Login
+### Auto Download
+***
+
+## 👤For Support👤:
 
 ### <p align="left"> ➡️ <a href="https://instagram.com/MRS4NJ4Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whitedh4cker" height="40" width="40" /></a>[Instagram](https://Instagram.com/officialsanjay101)</p>
 
