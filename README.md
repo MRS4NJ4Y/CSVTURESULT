@@ -24,7 +24,7 @@
 ### This program is more efficient and faster than online websites.
 ### Using this program you can check any previous (Nov-Dec-2021) to current result/admit card
 ### You can check result/admit card of anyone using roll number.
-### they Also Provide PYQ.
+### They also provide all PYQ.
 ***
 ## Note:
 ### 1. If you are facing any issue, first check your Internet connection and try again.
