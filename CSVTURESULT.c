@@ -871,7 +871,10 @@ int main() {
             }
             break;
             default:{
-                printf("\033[1;31mInvalid Option!\n\033[0m");
+                printf("\033[1;31mInvalid Option! please Enter the valid option\n\033[0m");
+                printf("\033[1;33mPress any key to Close: \033[0m");
+                getch();
+                option=0; 
                 break;
             }
         }
@@ -888,8 +891,7 @@ int main() {
             else{
                 printf("\033[1;31mInvalid Option!\n\033[0m");
             }
-        }
-        
+        }  
     }
     return 0;
 }
