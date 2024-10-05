@@ -43,7 +43,7 @@
 
 ## 👤For Support👤:
 
-### <p align="left"> ➡️ <a href="https://instagram.com/MRS4NJ4Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whitedh4cker" height="40" width="40" /></a>[Instagram](https://Instagram.com/officialsanjay101)</p>
+### <p align="left"> ➡️ <a href="https://instagram.com/officialsanjay101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whitedh4cker" height="40" width="40" /></a>[Instagram](https://Instagram.com/officialsanjay101)</p>
 
 ### <p align="left"> ➡️ <a href="https://t.me/MRS4NJ4Y" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="whitedh4cker" height="40" width="40" /></a>[Telegram](https://t.me/MRS4NJ4Y)</p>
 
